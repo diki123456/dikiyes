@@ -1,1 +1,10 @@
-let bandung
+let collection= [2,25,4,14,17,30,8];
+bil=[]
+
+for(let i=0 ; i<7; i++){
+    if(i>5 && i<20)
+    return true;
+}
+
+
+console.log(bill);

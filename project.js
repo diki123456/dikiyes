@@ -11,7 +11,7 @@ function isPrime(n)
    return true;
 }
 
-function showPrimes(max)
+function showPrimes(max)k
 {
     for(let i=0; i<= max; i++)
     {
